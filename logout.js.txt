@@ -1,2 +1,2 @@
-function logout(email,pswrd){
+function out(email,pswrd){
 }
